@@ -24,7 +24,7 @@
     "OWNER_NUMBER": {
       "description": "Put the owner number for bot.",
       "required": false,
-      "value": "923253617422"
+      "value": "93785293400"
     },
     "MENU_IMAGE_URL": {
       "description": "Add image URL for menu and mention replies.",
