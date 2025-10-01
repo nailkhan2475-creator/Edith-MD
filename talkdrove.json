@@ -1,5 +1,5 @@
 {
-    "bot-name": "SHABAN-MD",
+    "bot-name": "NAIL-MD",
     "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Shaban",
     "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
     "keywords": ["bot"],
@@ -30,14 +30,14 @@
       "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "MR-NAIL"
       
     }, 
     
       "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "93785293400"
 
     }, 
  
@@ -107,20 +107,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐒𝐡𝐚𝐛𝐚𝐧"
+      "value": "𝐍𝐚𝐢𝐥 𝐇𝐚𝐤💋"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "93785293400"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "NAIL-MD"
 
       }, 
 
